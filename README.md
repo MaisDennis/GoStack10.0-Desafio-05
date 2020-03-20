@@ -1,4 +1,12 @@
-<h1>Conceitos abordados:</h1>
+# GoStack 10.0 || Desafio 05
+
+* [1. Conceitos abordados](#1-conceitos-abordados)
+* [2. Descrição do projeto](#2-descrição-do-projeto)
+* [3. Enunciado do Projeto](#3-enunciado-do-projeto)
+* [4. Criando o projeto](#4-criando-o-projeto)
+
+
+##  1. Conceitos abordados
 
 1. Iniciar um projeto react-app.
 2. Incluir ESLint, Prettier & EditorConfig.
@@ -18,7 +26,7 @@ Novos:
 2. Filtro de estado de repositorio: Todos / Abertos / Encerrados.
 3. PAginação da lista de issues.
 
-<h1>Descrição do projeto:</h1>
+##  2. Descrição do projeto
 
 <p>
 
@@ -33,7 +41,7 @@ Novos Features:
 
 <p>
 
-<h1>Enunciado do Projeto:</h1>
+##  3. Enunciado do Projeto
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
@@ -121,7 +129,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
-<h1>Criando o projeto:</h1>
+##  4. Criando o projeto
 
 1. (1. e 2.) Criando a borda vermelha para repositorios não-encontrados e duplicados na pesquisa.
    1. Main/index.js:
