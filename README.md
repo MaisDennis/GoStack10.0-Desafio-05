@@ -35,13 +35,13 @@ https://github.com/MaisDennis/GoStack10.0-Modulo-05
 Um site para buscar repositórios no Github, retornando o nome, a descrição e issues atuais presentes no repositório. A pagina principal cria uma lista de repositórios procurados, e em cada item, traz um link.
 
 ### Main
-<img src="https://github.com/MaisDennis/GoStack10.0-Modulo-05/blob/master/src/assets/Main.png" alt="Main" width="100%" height="auto">
+<img src="https://github.com/MaisDennis/GoStack10.0-Desafio-05/blob/master/src/assets/Main.png" alt="Main" width="100%" height="auto">
 
 ### Repo
-<img src="https://github.com/MaisDennis/GoStack10.0-Modulo-05/blob/master/src/assets/Repo.png" alt="Main" width="100%" height="auto">
+<img src="https://github.com/MaisDennis/GoStack10.0-Desafio-05/blob/master/src/assets/Repo.png" alt="Main" width="100%" height="auto">
 
 ### Issue
-<img src="https://github.com/MaisDennis/GoStack10.0-Modulo-05/blob/master/src/assets/Issue.png" alt="Main" width="100%" height="auto">
+<img src="https://github.com/MaisDennis/GoStack10.0-Desafio-05/blob/master/src/assets/Issue.png" alt="Main" width="100%" height="auto">
 
 Novos Features:
 
