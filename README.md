@@ -7,27 +7,25 @@
 
 ##  1. Conceitos abordados
 
-        1. Iniciar um projeto react-app.
-        2. Incluir ESLint, Prettier & EditorConfig.
-        3. Criar routes, pages (index e styles).
-        4. Utilizar Styled components para a estilização.
-        5. Criação de componentes.
-          1. **state = {}, e render() {};**
-          2. funções **handleInputChange, handleSubmit**
-        6. Utilizar a biblioteca axios para fazer requisições API e criar a baseURL.
-        7. Utilizar localStorage do browser.
-          1. **componentDidMount e componentDidUpdate** (Carregar e Salvar no LocalStorage, respectivamente).
-        8. Utilizar o { Link } from 'react-router-dom'.
+1. Iniciar um projeto react-app.
+2. Incluir ESLint, Prettier & EditorConfig.
+3. Criar routes, pages (index e styles).
+4. Utilizar Styled components para a estilização.
+5. Criação de componentes.
+  1. **state = {}, e render() {};**
+  2. funções **handleInputChange, handleSubmit**
+6. Utilizar a biblioteca axios para fazer requisições API e criar a baseURL.
+7. Utilizar localStorage do browser.
+  1. **componentDidMount e componentDidUpdate** (Carregar e Salvar no LocalStorage, respectivamente).
+8. Utilizar o { Link } from 'react-router-dom'.
 
-        Novos:
+Novos:
 
-        1. check repositorio não encontrado e duplicado.
-        2. Filtro de estado de repositorio: Todos / Abertos / Encerrados.
-        3. PAginação da lista de issues.
+1. check repositorio não encontrado e duplicado.
+2. Filtro de estado de repositorio: Todos / Abertos / Encerrados.
+3. PAginação da lista de issues.
 
 ##  2. Descrição do projeto
-
-<p>
 
 Projeto base para o desafio:
 https://github.com/MaisDennis/GoStack10.0-Modulo-05
@@ -43,9 +41,6 @@ Um site para buscar repositórios no Github, retornando o nome, a descrição e 
 ### Issue
 <img src="https://github.com/MaisDennis/GoStack10.0-Desafio-05/blob/master/src/assets/Issue.png" alt="Main" width="100%" height="auto">
 
-Novos Features:
-
-<p>
 
 ##  3. Enunciado do Projeto
 
