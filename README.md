@@ -2,8 +2,9 @@
 
 * [1. Conceitos abordados](#1-conceitos-abordados)
 * [2. Descrição do projeto](#2-descrição-do-projeto)
-* [3. Enunciado do Projeto](#3-enunciado-do-projeto)
-* [4. Criando o projeto](#4-criando-o-projeto)
+* [3. Iniciando o Projeto](#3-iniciando-o-projeto)
+* [4. Enunciado do Projeto](#4-enunciado-do-projeto)
+* [5. Criando o projeto](#5-criando-o-projeto)
 
 ##  1. Conceitos abordados
 
@@ -41,8 +42,12 @@ Um site para buscar repositórios no Github, retornando o nome, a descrição e 
 ### Issue
 <img src="https://github.com/MaisDennis/GoStack10.0-Desafio-05/blob/master/src/assets/Issue.png" alt="Main" width="100%" height="auto">
 
+##  3. Iniciando o projeto
+```
+yarn start
+```
 
-##  3. Enunciado do Projeto
+##  4. Enunciado do Projeto
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
@@ -130,7 +135,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
-##  4. Criando o projeto
+##  5. Criando o projeto
 
 1. (1. e 2.) Criando a borda vermelha para repositorios não-encontrados e duplicados na pesquisa.
    1. Main/index.js:
